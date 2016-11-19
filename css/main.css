@@ -40,7 +40,7 @@ html {
 }
 
 .banner {
-  background-image: linear-gradient(to bottom, rgba(16, 52, 41, 0), rgba(16, 52, 41, .8)), url("../images/banner.jpg");
+  background-image: linear-gradient(to bottom, rgba(16, 52, 41, 0), rgba(16, 52, 41, 0), rgba(16, 52, 41, .8)), url("../images/banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center;
@@ -48,7 +48,7 @@ html {
   border-width: 0 0 3px;
   border-style: solid;
   background-color: #145b1d;
-  padding-top: 175px;
+  padding-top: 180px;
 }
 
 .banner-content {
