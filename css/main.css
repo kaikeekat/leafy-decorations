@@ -4,12 +4,12 @@ html {
 }
 
 .masthead {
-background-color: #588477;
-border-color: #2d5a4d;
-border-width: 3px 0;
-border-style: solid;
-background-image: url("../images/leaf-bg.svg");
-background-size: 64px;
+  background-color: #588477;
+  border-color: #2d5a4d;
+  border-width: 3px 0;
+  border-style: solid;
+  background-image: url("../images/leaf-bg.svg");
+  background-size: 64px;
 }
 
 .logo {
